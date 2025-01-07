@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Lorenzo
 
 🎓 **Life Sciences Engineer** | 💻 **Python Developer** | 🧠 **Neuroscience Enthusiast**  
 📊 **Data Science Explorer** | 🚀 Advocate for Personalized Medicine  
