@@ -28,9 +28,3 @@ I currently work at [Charité Berlin](https://www.brainsimulation.org/bsw/) in t
 - When I’m not coding, you’ll probably find me reading about futuristic health tech or exploring the great outdoors. 🌿  
 
 ---
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-
----
